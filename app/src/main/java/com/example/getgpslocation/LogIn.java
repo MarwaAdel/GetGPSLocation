@@ -243,7 +243,7 @@ public class LogIn extends AppCompatActivity {
                                 Log.e("saved data", user.getUsername() + etUserPassword.getText().toString()
                                         + user.getToken()+ user.getToken_expire() + user.getRole());
 
-                                Intent intent = new Intent(LogIn.this, VisitedStores.class);
+                                Intent intent = new Intent(LogIn.this, MapsActivity.class);
                                 intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK);
                                 finish();
                                 startActivity(intent);

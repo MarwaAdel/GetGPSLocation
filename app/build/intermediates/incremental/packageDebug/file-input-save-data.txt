@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Nov 30 11:29:22 EET 2016
+#Wed Nov 30 11:43:27 EET 2016
 210.set=ANDROID_RESOURCE
 282.file=E\:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\common_signin_btn_icon_light.xml
 14.set=ANDROID_RESOURCE
