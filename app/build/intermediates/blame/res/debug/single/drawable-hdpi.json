@@ -1,0 +1,418 @@
+[
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_disabled_focus_dark.9.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable-hdpi\\common_signin_btn_text_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\checkmark.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\src\\main\\res\\drawable-hdpi\\checkmark.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_disabled_dark.9.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable-hdpi\\common_signin_btn_text_disabled_dark.9.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\delete.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\src\\main\\res\\drawable-hdpi\\delete.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_play.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-hdpi\\ic_media_play.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_route_on_2_mono_dark.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-hdpi\\ic_media_route_on_2_mono_dark.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_focus_dark.9.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable-hdpi\\common_signin_btn_text_focus_dark.9.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\phone.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\src\\main\\res\\drawable-hdpi\\phone.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_share_list.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\src\\main\\res\\drawable-hdpi\\ic_share_list.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_route_off_mono_dark.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-hdpi\\ic_media_route_off_mono_dark.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_setting_light.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-hdpi\\ic_setting_light.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\app_icon.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\src\\main\\res\\drawable-hdpi\\app_icon.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_cast_dark.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-hdpi\\ic_cast_dark.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_route_disabled_mono_dark.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-hdpi\\ic_media_route_disabled_mono_dark.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mobile.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\src\\main\\res\\drawable-hdpi\\mobile.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\camera.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\src\\main\\res\\drawable-hdpi\\camera.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\powered_by_google_dark.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.1.0\\res\\drawable-hdpi\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_cast_off_light.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-hdpi\\ic_cast_off_light.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_cast_on_light.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-hdpi\\ic_cast_on_light.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\workshop.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\src\\main\\res\\drawable-hdpi\\workshop.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cast_ic_notification_on.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.1.0\\res\\drawable-hdpi\\cast_ic_notification_on.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_pause_dark.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-hdpi\\ic_pause_dark.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_normal_dark.9.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable-hdpi\\common_signin_btn_icon_normal_dark.9.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\addclient_icon.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\src\\main\\res\\drawable-hdpi\\addclient_icon.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_normal_dark.9.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable-hdpi\\common_signin_btn_text_normal_dark.9.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_disabled_light.9.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable-hdpi\\common_signin_btn_icon_disabled_light.9.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\arrowdownon.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\src\\main\\res\\drawable-hdpi\\arrowdownon.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\indicator_yellow.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\src\\main\\res\\drawable-hdpi\\indicator_yellow.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_focus_light.9.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable-hdpi\\common_signin_btn_icon_focus_light.9.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\checkmarkon.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\src\\main\\res\\drawable-hdpi\\checkmarkon.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\drawer.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\src\\main\\res\\drawable-hdpi\\drawer.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\clear.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\src\\main\\res\\drawable-hdpi\\clear.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_pause.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-hdpi\\ic_media_pause.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_pressed_dark.9.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable-hdpi\\common_signin_btn_icon_pressed_dark.9.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\add.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\src\\main\\res\\drawable-hdpi\\add.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_focus_light.9.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable-hdpi\\common_signin_btn_text_focus_light.9.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\indicator_gray.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\src\\main\\res\\drawable-hdpi\\indicator_gray.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_cast_disabled_light.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-hdpi\\ic_cast_disabled_light.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gasstation.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\src\\main\\res\\drawable-hdpi\\gasstation.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_plusone_small_off_client.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.1.0\\res\\drawable-hdpi\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_normal_light.9.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable-hdpi\\common_signin_btn_icon_normal_light.9.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_disabled_focus_light.9.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable-hdpi\\common_signin_btn_text_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\carwash.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\src\\main\\res\\drawable-hdpi\\carwash.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\addclient.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\src\\main\\res\\drawable-hdpi\\addclient.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\src\\main\\res\\drawable-hdpi\\img.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_full_open_on_phone.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-hdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_normal_light.9.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable-hdpi\\common_signin_btn_text_normal_light.9.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\commercialno.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\src\\main\\res\\drawable-hdpi\\commercialno.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\powered_by_google_light.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.1.0\\res\\drawable-hdpi\\powered_by_google_light.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_save_white.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\src\\main\\res\\drawable-hdpi\\ic_save_white.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cast_ic_notification_2.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.1.0\\res\\drawable-hdpi\\cast_ic_notification_2.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_plusone_tall_off_client.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.1.0\\res\\drawable-hdpi\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\marker.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\src\\main\\res\\drawable-hdpi\\marker.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_route_on_0_mono_dark.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-hdpi\\ic_media_route_on_0_mono_dark.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\remark.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\src\\main\\res\\drawable-hdpi\\remark.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_route_on_mono_dark.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-hdpi\\ic_media_route_on_mono_dark.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_setting_dark.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-hdpi\\ic_setting_dark.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_pressed_light.9.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable-hdpi\\common_signin_btn_text_pressed_light.9.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\address.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\src\\main\\res\\drawable-hdpi\\address.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_burst_mode_black_24dp.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\src\\main\\res\\drawable-hdpi\\ic_burst_mode_black_24dp.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\arrow.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\src\\main\\res\\drawable-hdpi\\arrow.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_play_dark.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-hdpi\\ic_play_dark.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_route_on_1_mono_dark.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-hdpi\\ic_media_route_on_1_mono_dark.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\arrowdown.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\src\\main\\res\\drawable-hdpi\\arrowdown.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\name.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\src\\main\\res\\drawable-hdpi\\name.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\contractcode.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\src\\main\\res\\drawable-hdpi\\contractcode.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_play_light.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-hdpi\\ic_play_light.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cast_ic_notification_0.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.1.0\\res\\drawable-hdpi\\cast_ic_notification_0.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_pause_light.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-hdpi\\ic_pause_light.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\offline.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\src\\main\\res\\drawable-hdpi\\offline.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_add.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\src\\main\\res\\drawable-hdpi\\icon_add.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\lock_ic.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\src\\main\\res\\drawable-hdpi\\lock_ic.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_disabled_dark.9.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable-hdpi\\common_signin_btn_icon_disabled_dark.9.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_disabled_focus_dark.9.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable-hdpi\\common_signin_btn_icon_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\background.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\src\\main\\res\\drawable-hdpi\\background.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_photo_camera_black_24dp.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\src\\main\\res\\drawable-hdpi\\ic_photo_camera_black_24dp.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\viewclinets.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\src\\main\\res\\drawable-hdpi\\viewclinets.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_cast_on_2_light.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-hdpi\\ic_cast_on_2_light.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_cast_light.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-hdpi\\ic_cast_light.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_disabled_focus_light.9.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable-hdpi\\common_signin_btn_icon_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_ic_googleplayservices.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-hdpi\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_sort_white.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\src\\main\\res\\drawable-hdpi\\ic_sort_white.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_plusone_medium_off_client.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.1.0\\res\\drawable-hdpi\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_focus_dark.9.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable-hdpi\\common_signin_btn_icon_focus_dark.9.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_plusone_standard_off_client.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.1.0\\res\\drawable-hdpi\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_close_black_24dp.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\src\\main\\res\\drawable-hdpi\\ic_close_black_24dp.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_cast_on_1_light.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-hdpi\\ic_cast_on_1_light.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_accept.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\src\\main\\res\\drawable-hdpi\\ic_action_accept.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_edit_white.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\src\\main\\res\\drawable-hdpi\\ic_edit_white.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cast_ic_notification_1.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.1.0\\res\\drawable-hdpi\\cast_ic_notification_1.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\network.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\src\\main\\res\\drawable-hdpi\\network.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\camerabtn.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\src\\main\\res\\drawable-hdpi\\camerabtn.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_pressed_light.9.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable-hdpi\\common_signin_btn_icon_pressed_light.9.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\back.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\src\\main\\res\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mr_ic_audio_vol.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-hdpi\\mr_ic_audio_vol.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\taxationcard.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\src\\main\\res\\drawable-hdpi\\taxationcard.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_cast_on_0_light.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-hdpi\\ic_cast_on_0_light.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_overflow.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\src\\main\\res\\drawable-hdpi\\ic_action_overflow.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_pressed_dark.9.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable-hdpi\\common_signin_btn_text_pressed_dark.9.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\user_ic.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\src\\main\\res\\drawable-hdpi\\user_ic.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_disabled_light.9.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable-hdpi\\common_signin_btn_text_disabled_light.9.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\afsha.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\src\\main\\res\\drawable-hdpi\\afsha.png"
+    },
+    {
+        "merged": "E:\\my projects\\GetGPSLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\branch.png",
+        "source": "E:\\my projects\\GetGPSLocation\\app\\src\\main\\res\\drawable-hdpi\\branch.png"
+    }
+]

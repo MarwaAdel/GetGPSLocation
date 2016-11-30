@@ -1,0 +1,84 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="text_padding_add">6dp</dimen>
+    <dimen name="et_padding_add">16dp</dimen>
+
+    <dimen name="article_keylines">32dp</dimen>
+    <dimen name="md_keylines">16dp</dimen>
+    <dimen name="article_titles">16sp</dimen>
+    <!-- Edit Text -->
+    <dimen name="et_min_height">45dp</dimen>
+    <dimen name="et_time_height">35dp</dimen>
+    <dimen name="et_padding">8dp</dimen>
+    <dimen name="et_padding_top">2dp</dimen>
+    <dimen name="et_text_size">12sp</dimen>
+    <dimen name="et_text_size_services">20sp</dimen>
+    <dimen name="et_subscribe_padding">24dp</dimen>
+    <dimen name="multi_text">110dp</dimen>
+
+    <!-- Text View-->
+    <dimen name="tv_padding_bottom">4dp</dimen>
+    <dimen name="tv_padding_right">18dp</dimen>
+    <dimen name="tv_margin">8dp</dimen>
+
+    <!-- Image Button-->
+    <dimen name="im_width">40dp</dimen>
+    <dimen name="im_width_cam">60dp</dimen>
+    <dimen name="im_height">40dp</dimen>
+    <dimen name="im_margin_top">20dp</dimen>
+    <dimen name="im_width_log">130dp</dimen>
+    <dimen name="im_height_log">110dp</dimen>
+    <dimen name="im_list">55dp</dimen>
+    <dimen name="im_remove">25dp</dimen>
+
+    <!-- Button-->
+    <dimen name="b_padding">4dp</dimen>
+    <dimen name="b_padding_top">16dp</dimen>
+    <dimen name="b_text_Size">24sp</dimen>
+    <dimen name="b_text_login">16sp</dimen>
+
+    <!-- Linear Layout-->
+    <dimen name="ll_padding_layout">16dp</dimen>
+    <dimen name="ll_padding_bottom_image">4dp</dimen>
+    <dimen name="ll_padding_bottom_subscribe">8dp</dimen>
+    <dimen name="ll_padding_top_servies">35dp</dimen>
+    <dimen name="ll_margin">12dp</dimen>
+    <dimen name="ll_margin_image">4dp</dimen>
+    <dimen name="ll_padding_log">8dp</dimen>
+    <dimen name="ll_margin_log">32dp</dimen>
+    <dimen name="ll_margin_top">18dp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="dialog_toolbar_size">45dp</dimen>
+    <dimen name="dialog_hight">200dp</dimen>
+    <dimen name="very_small_text">8sp</dimen>
+    <dimen name="small_text">10sp</dimen>
+    <dimen name="above_small_text">12sp</dimen>
+    <dimen name="below_medium_text">14sp</dimen>
+    <dimen name="medium_text">16sp</dimen>
+    <dimen name="above_medium_text">18sp</dimen>
+    <dimen name="large_text">20sp</dimen>
+    <dimen name="very_large_text">25sp</dimen>
+    <dimen name="back_button_padding">6dp</dimen>
+    <dimen name="small_padding">5dp</dimen>
+    <dimen name="margin_bottom_linear">70dp</dimen>
+    <dimen name="small_margin">3dp</dimen>
+    <dimen name="below_medium_margin">6dp</dimen>
+    <dimen name="medium_margin">8dp</dimen>
+    <dimen name="above_medium_margin">11dp</dimen>
+    <dimen name="large_margin">20dp</dimen>
+    <dimen name="very_large_margin">30dp</dimen>
+    <dimen name="drawer_width">230dp</dimen>
+    <dimen name="design_line_margin">15dp</dimen>
+    <dimen name="design_circle_margin">12dp</dimen>
+    <dimen name="circle_vertical_line_margin">6dp</dimen>
+
+    <dimen name="yellow_button_hight">45dp</dimen>
+    <dimen name="dialogButtonWidth">170dp</dimen>
+
+</resources>

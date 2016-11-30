@@ -1,0 +1,21 @@
+-keep class com.example.getgpslocation.helper.AppController {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+-keep class com.example.getgpslocation.LogIn { <init>(); }
+-keep class com.example.getgpslocation.VisitedStoreDetail { <init>(); }
+-keep class com.example.getgpslocation.VisitedStores { <init>(); }
+-keep class com.example.getgpslocation.MapsActivity { <init>(); }
+-keep class com.google.android.gms.ads.AdActivity { <init>(); }
+-keep class com.google.android.gms.ads.purchase.InAppPurchaseActivity { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementContentProvider { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+-keep class com.onesignal.GcmBroadcastReceiver { <init>(); }
+-keep class com.onesignal.NotificationOpenedReceiver { <init>(); }
+-keep class com.onesignal.GcmIntentService { <init>(); }
+-keep class com.onesignal.SyncService { <init>(); }
+-keep class com.onesignal.PermissionsActivity { <init>(); }
+-keep class com.onesignal.NotificationRestoreService { <init>(); }
+-keep class com.onesignal.BootUpReceiver { <init>(); }
+-keep class com.onesignal.UpgradeReceiver { <init>(); }
